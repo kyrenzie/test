@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Magento 2](https://cdn.rawgit.com/rafaelstz/magento2-snippets-visualstudio/master/images/icon.png)
 
 #  Magento 2 Docker to Development
@@ -85,3 +86,6 @@ or to run in the background using detached mode
 ### License
 
 MIT © 2018 [Rafael Corrêa Gomes](https://github.com/rafaelstz/) and [contributors](https://github.com/clean-docker/Magento2/graphs/contributors).
+=======
+# magento
+>>>>>>> 80f3ebc9b8efa05b17d30958af54b30873097116
